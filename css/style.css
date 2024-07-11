@@ -1,0 +1,31 @@
+*{
+    font-family: "Playwrite PE";
+    box-sizing: border-box;
+    padding: 0;
+    
+}
+#c1,#c2,#c3,#c4,#d1,#d2{
+    margin: 10px;
+}
+.card{
+    margin: 10px;
+}
+nav{
+    color: white
+    ;
+}
+#cont{
+    background-color: beige;
+}
+.navbar-brand,.nav-link{
+    color: white;
+}
+#d1{
+    font-weight: 600;
+}
+.card-title{
+    font-weight: 600;
+}
+#imag{
+    margin: 40px
+}
